@@ -1,0 +1,17 @@
+charset"utf-8";
+table,th,td{
+	color:#096 broder:#0CC solid:1px;
+	
+	}
+table{
+		margin:auto;
+		font-size:30px;
+		padding=0;
+		cellspacing=0;
+		cellpadding=0;
+		
+		
+	}
+th{
+	background-color: #0CC;
+	}

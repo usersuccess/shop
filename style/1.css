@@ -1,0 +1,19 @@
+/* CSS Document */
+#tab1 .tab{
+	background:#999;
+	color:white;
+	border:1px solid #999;
+	}
+#tab1 div{
+		clear:all;
+		width:300px;
+		height:100px;
+		background:#999;
+		padding:10px;
+		color:white;
+		display:none;	
+	}
+#tab1 .show{
+		display:block;	
+	}
+	

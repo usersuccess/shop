@@ -1,0 +1,74 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-size:14px;
+}
+body,button,h1 ,h2, h3, h4, h5, h6 {
+    font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+}
+.head{
+    width:980px;
+    height:80px;
+    margin:0px auto;
+    border-top:2px solid #369;
+}
+.head .sysname{
+    color:#000;
+    font-weight: bold;
+    float: left;
+}
+.head .sysname h2{
+    margin-left:20px;
+    color:#369;
+}
+.head .reg{
+    float: right;
+    line-height: 80px;
+    height:80px;
+    margin-right:20px;
+}
+.nav{
+    width:980px;
+    height:40px;
+    margin:0px auto;
+    border-top:1px solid #337ab7;
+    border-bottom:1px solid #337ab7;
+    background: #369;
+
+}
+.nav ul{
+    list-style: none;
+}
+.nav ul li{
+   float:left;
+    width:120px;
+    height:38px;
+    line-height:38px ;
+    text-align:center;
+}
+.nav ul li a:link{
+    display: block;
+   color:#369;
+    text-decoration: none;
+    font-size: 16px;
+    color:#fff;
+}
+.nav ul li a:visited{
+    display: block;
+    color:#369;
+    text-decoration: none;
+    font-size: 16px;
+    color:#fff;
+}
+.nav ul li a:hover{
+    display: block;
+    color:#000;
+    text-decoration: none;
+    background-color: #fff;
+    font-size: 16px;
+}
+.banner{
+    width:980px;
+    height:251px;
+    margin:5px auto;
+}
